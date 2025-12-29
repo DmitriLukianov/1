@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"study/feature1"
+)
 
 func main() {
 	fmt.Println("main")
+	feature1.Cikl()
 }
