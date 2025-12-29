@@ -2,7 +2,7 @@ package feature1
 
 import "fmt"
 
-func Cikl() {
+func Cikls() {
 	for i := 1; i <= 5; i++ {
 		fmt.Println(i)
 	}
