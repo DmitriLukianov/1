@@ -7,5 +7,5 @@ import (
 
 func main() {
 	fmt.Println("main")
-	feature1.Cikl()
+	feature1.Cikls()
 }
